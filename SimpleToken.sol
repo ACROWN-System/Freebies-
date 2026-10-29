@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-// Minimal ERC-20 Token (BSC ready)
+// Minimal educational ERC-20 example; validate compatibility on the target chain.
 contract SimpleToken {
     // ✅ Keep the quotation marks when replacing these values
     string public name = "YOUR_TOKEN_NAME";   // <-- Replace with your token name, e.g. "BradfordCoin"
