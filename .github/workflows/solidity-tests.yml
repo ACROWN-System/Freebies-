@@ -30,4 +30,4 @@ jobs:
           version: v1.8.6
 
       - name: Compile and run regression tests
-        run: forge test --offline -vvv
+        run: forge test -vvv
