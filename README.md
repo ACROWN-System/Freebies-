@@ -3,8 +3,8 @@
 Welcome to **Freebies**, a repository of open-source resources shared by AstroCrown under the **ACROWN-System** organization.
 
 ## 🎁 Contents
-- Minimal smart contracts (ERC-20, BSC-ready, etc.)
-- Tutorials and guides for easy deployment
+- Minimal smart-contract examples, including ERC-20
+- Tutorials and guides for deployment experiments
 - Templates and creative tools for community use
 
 ## 🚀 First Freebie: Minimal ERC-20 Token
