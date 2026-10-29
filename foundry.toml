@@ -1,0 +1,8 @@
+[profile.default]
+src = "."
+test = "test"
+out = "out"
+cache_path = "cache"
+libs = []
+solc_version = "0.8.20"
+skip = ["out/**", "cache/**"]
